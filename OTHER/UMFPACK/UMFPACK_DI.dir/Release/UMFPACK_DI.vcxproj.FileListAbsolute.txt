@@ -1,0 +1,1 @@
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\Release\UMFPACK_DI.lib

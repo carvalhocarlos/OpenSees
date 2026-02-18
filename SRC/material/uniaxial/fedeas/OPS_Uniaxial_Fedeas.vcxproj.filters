@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\FedeasMaterial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasBond1Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasBond2Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasConcr1Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasConcr2Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasConcr3Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasHardeningMaterial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasHyster1Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasHyster2Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasSteel1Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasSteel2Material.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\PD1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\PlasticDamageMaterial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\FedeasMaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasBond1Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasBond2Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasConcr1Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasConcr2Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasConcr3Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasHardeningMaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasHyster1Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasHyster2Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasSteel1Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\FedeasSteel2Material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\PlasticDamageMaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\OPS_Uniaxial_Fedeas_f.dir\$(Configuration)\Hard1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\fedeas\OPS_Uniaxial_Fedeas_f.dir\$(Configuration)\PD1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{714A776C-966F-3E22-BB08-C56594A02E88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{D2525C81-472A-30DB-864F-800B264235E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C200085A-6D08-330E-8C6D-DACE26C8DA8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

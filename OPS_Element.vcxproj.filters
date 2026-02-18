@@ -1,0 +1,1518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\Element.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\ElementalLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\WrapperElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\ConstantPressureVolumeQuad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\EnhancedQuad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\FourNodeQuad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\FourNodeQuad3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\FourNodeQuadWithSensitivity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\EightNodeQuad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\NineNodeMixedQuad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\NineNodeQuad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\SixNodeTri.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\twoNodeLink\Inerter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\twoNodeLink\LinearElasticSpring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\twoNodeLink\TwoNodeLink.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\twoNodeLink\TwoNodeLinkSection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\tetrahedron\FourNodeTetrahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\tetrahedron\TenNodeTetrahedron.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\triangle\Tri31.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellQ4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellT3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\R3vectors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellDKGQ.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellDKGT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellMITC4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellMITC4Thermal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellMITC9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellNLDKGQ.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellNLDKGQThermal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellNLDKGT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellNLDKGTThermal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\Brick.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\Twenty_Node_Brick.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\shp3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\BbarBrick.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\BbarBrickWithSensitivity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLength.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\CoupledZeroLength.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthContact2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthContact3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthContactASDimplex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthContactNTS2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthImpact3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthInterface2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthND.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthRocking.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthSection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthVG_HG.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\Truss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\TrussSection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\CorotTruss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\CorotTrussSection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\Truss2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\N4BiaxialTruss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\CorotTruss2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\InertiaTruss.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\beam3d\beam3d01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\beam3d\beam3d02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumnAsym3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn3dThermal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumnNL2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumnNL3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumnWarping3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn2dWithSensitivity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn3dWithSensitivity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\AxEqDispBeamColumn2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\TimoshenkoBeamColumn2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\TimoshenkoBeamColumn3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn3dID.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumnInt\DispBeamColumn2dInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumnInt\FiberSection2dInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumnInt\LinearCrdTransf2dInt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumn2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumn3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumn2dThermal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumn3dThermal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ElasticForceBeamColumn2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ElasticForceBeamColumnWarping2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumnCBDI3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumnWarping2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\BeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\LobattoBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\LegendreBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\RadauBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\NewtonCotesBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\HingeMidpointBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\HingeEndpointBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\HingeRadauBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\HingeRadauTwoBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\UserDefinedBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\SimpsonBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\UserDefinedHingeIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\DistHingeIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\RegularizedHingeIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\TrapezoidalBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\CompositeSimpsonBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\FixedLocationBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\LowOrderBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\MidDistanceBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ConcentratedPlasticityBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ConcentratedCurvatureBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ChebyshevBeamIntegration.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mixedBeamColumn\MixedBeamColumn2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mixedBeamColumn\MixedBeamColumn3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mixedBeamColumn\MixedBeamColumnAsym3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticBeam2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticBeam3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticBeamWarping3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticTimoshenkoBeam2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticTimoshenkoBeam3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ModElasticBeam2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ModElasticBeam3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\WheelRail.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\gradientInelasticBeamColumn\GradientInelasticBeamColumn2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\gradientInelasticBeamColumn\GradientInelasticBeamColumn3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\BilinearCyclic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\CyclicModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\Elastic2DGNL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\Inelastic2DYS01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\Inelastic2DYS02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\Inelastic2DYS03.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\InelasticYS2DGNL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\LinearCyclic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\QuadraticCyclic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\UpdatedLagrangianBeam2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\catenaryCable\CatenaryCable.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2DVISCOUS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML3DVISCOUS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2D_3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2D_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2D_12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\RockingBC\RockingBC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\ASDAbsorbingBoundary2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\ASDAbsorbingBoundary3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\LysmerTriangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\FSIFluidElement2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\FSIInterfaceElement2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\FSIFluidBoundaryElement2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\adapter\ActuatorCorot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\adapter\Actuator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\adapter\Adapter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\componentElement\ComponentElement2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\componentElement\ComponentElement3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\FlatSliderSimple2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\FlatSliderSimple3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\FPBearingPTV.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\MultiFP2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\RJWatsonEQS2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\RJWatsonEQS3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\SingleFPSimple2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\SingleFPSimple3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TFP_Bearing2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TFP_Bearing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TPB1D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TripleFrictionPendulum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TripleFrictionPendulumX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\Coulomb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\FrictionModel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\FrictionResponse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\VelDependent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\VelDepMultiLinear.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\VelNormalFrcDep.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\VelPressureDep.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingBoucWen2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingBoucWen3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingBoucWenMod3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingPlasticity2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingPlasticity3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingUFRP2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\HDR.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\LeadRubberX.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\generic\GenericClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\generic\GenericCopy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\BeamColumnJoint2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\BeamColumnJoint3d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\ElasticTubularJoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\Joint2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\Joint3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\Inno3DPnPJoint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\LehighJoint2d.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\MP_Joint2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\MP_Joint3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\surfaceLoad\SurfaceLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\surfaceLoad\TriSurfaceLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\feap\fElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\feap\fElmt02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\feap\fElmt05.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\pipe\Pipe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\pipe\CurvedPipe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\MVLEM_3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\MVLEM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\SFI_MVLEM_3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\E_SFI_MVLEM_3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\SFI_MVLEM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\E_SFI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\pyMacro\PY_Macro2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\BBarBrickUP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\BBarFourNodeQuadUP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\BrickUP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\FourNodeQuadUP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\Nine_Four_Node_QuadUP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\shp3dv.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SimpleContact2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SimpleContact3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamContact2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamContact2Dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamContact3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamContact3Dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamEndContact3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamEndContact3Dp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SSPquad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SSPquadUP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SSPbrick.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SSPbrickUP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\Quad4FiberOverlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\Brick8FiberOverlay.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\QuadBeamEmbedContact.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\PileToe3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\EmbeddedBeamInterfaceL.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\EmbeddedBeamInterfaceP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\EmbeddedEPBeamInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\Tcl_generateInterfacePoints.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\MultipleShearSpring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\MultipleNormalSpring.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\DBESI0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\DBESI1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\YamamotoBiaxialHDR.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\KikuchiBearing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\XMUelements\AC3D8HexWithSensitivity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\XMUelements\ASI3D8QuadWithSensitivity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\XMUelements\AV3D4QuadWithSensitivity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\XMUelements\VS3D4QuadWithSensitivity.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\masonry\BeamGT.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\masonry\MasonPan12.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\masonry\MasonPan3D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\CEqElement\ASDEmbeddedNodeElement.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\IGA\IGAKLShell.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\IGA\IGAKLShell_BendingStrip.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mefi\MEFI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\Element.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\ElementalLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\WrapperElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\ConstantPressureVolumeQuad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\EnhancedQuad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\FourNodeQuad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\FourNodeQuad3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\FourNodeQuadWithSensitivity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\EightNodeQuad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\NineNodeMixedQuad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\NineNodeQuad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\fourNodeQuad\SixNodeTri.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\twoNodeLink\Inerter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\twoNodeLink\LinearElasticSpring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\twoNodeLink\TwoNodeLink.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\twoNodeLink\TwoNodeLinkSection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\tetrahedron\FourNodeTetrahedron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\tetrahedron\TenNodeTetrahedron.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\triangle\Tri31.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDEICR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellQ4CorotationalTransformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellQ4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellQ4LocalCoordinateSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellQ4Transformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellT3CorotationalTransformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellT3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellT3LocalCoordinateSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ASDShellT3Transformation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\R3vectors.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellDKGQ.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellDKGT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellMITC4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellMITC4Thermal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellMITC9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellNLDKGQ.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellNLDKGQThermal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellNLDKGT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\shell\ShellNLDKGTThermal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\Brick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\Twenty_Node_Brick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\shp3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\BbarBrick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\brick\BbarBrickWithSensitivity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLength.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\CoupledZeroLength.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthContact2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthContact3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthContactASDimplex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthContactNTS2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthImpact3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthInterface2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthND.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthRocking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthSection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\zeroLength\ZeroLengthVG_HG.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\Truss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\TrussSection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\CorotTruss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\CorotTrussSection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\Truss2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\N4BiaxialTruss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\CorotTruss2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\truss\InertiaTruss.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\beam3d\beam3d01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\beam3d\beam3d02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumnAsym3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn2dThermal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn3dThermal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumnNL2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumnNL3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumnWarping3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn2dWithSensitivity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn3dWithSensitivity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\AxEqDispBeamColumn2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\TimoshenkoBeamColumn2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\TimoshenkoBeamColumn3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumn\DispBeamColumn3dID.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumnInt\DispBeamColumn2dInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumnInt\FiberSection2dInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\dispBeamColumnInt\LinearCrdTransf2dInt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumn2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumn3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumn2dThermal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumn3dThermal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ElasticForceBeamColumn2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ElasticForceBeamColumn3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ElasticForceBeamColumnWarping2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumnCBDI2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumnCBDI3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ForceBeamColumnWarping2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\BeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\LobattoBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\LegendreBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\RadauBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\NewtonCotesBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\HingeMidpointBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\HingeEndpointBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\HingeRadauBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\HingeRadauTwoBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\UserDefinedBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\SimpsonBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\UserDefinedHingeIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\DistHingeIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\RegularizedHingeIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\TrapezoidalBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\CompositeSimpsonBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\FixedLocationBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\LowOrderBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\MidDistanceBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\forceBeamColumn\ChebyshevBeamIntegration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mixedBeamColumn\MixedBeamColumn2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mixedBeamColumn\MixedBeamColumn3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mixedBeamColumn\MixedBeamColumnAsym3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticBeam2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticBeam3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticBeamWarping3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticTimoshenkoBeam2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ElasticTimoshenkoBeam3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ModElasticBeam2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\ModElasticBeam3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elasticBeamColumn\WheelRail.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\gradientInelasticBeamColumn\GradientInelasticBeamColumn2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\gradientInelasticBeamColumn\GradientInelasticBeamColumn3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\BilinearCyclic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\CyclicModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\Elastic2DGNL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\Inelastic2DYS01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\Inelastic2DYS02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\Inelastic2DYS03.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\InelasticYS2DGNL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\LinearCyclic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\QuadraticCyclic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\updatedLagrangianBeamColumn\UpdatedLagrangianBeam2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\catenaryCable\CatenaryCable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2DVISCOUS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML3DVISCOUS.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2D_3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2D_5.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\PML\PML2D_12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\RockingBC\RockingBC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\ASDAbsorbingBoundary2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\ASDAbsorbingBoundary3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\LysmerTriangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\FSIFluidElement2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\FSIInterfaceElement2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\absorbentBoundaries\FSIFluidBoundaryElement2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\adapter\ActuatorCorot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\adapter\Actuator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\adapter\Adapter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\componentElement\ComponentElement2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\componentElement\ComponentElement3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\FlatSliderSimple2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\FlatSliderSimple3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\FPBearingPTV.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\MultiFP2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\RJWatsonEQS2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\RJWatsonEQS3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\SingleFPSimple2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\SingleFPSimple3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TFP_Bearing2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TFP_Bearing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TPB1D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TripleFrictionPendulum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\TripleFrictionPendulumX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\Coulomb.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\FrictionModel.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\FrictionResponse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\VelDependent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\VelDepMultiLinear.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\VelNormalFrcDep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\frictionBearing\frictionModel\VelPressureDep.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingBoucWen2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingBoucWen3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingBoucWenMod3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingPlasticity2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingPlasticity3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericBearingUFRP2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\ElastomericX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\HDR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\elastomericBearing\LeadRubberX.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\generic\GenericClient.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\generic\GenericCopy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\BeamColumnJoint2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\BeamColumnJoint3d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\ElasticTubularJoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\Joint2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\Joint3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\Inno3DPnPJoint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\LehighJoint2d.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\MP_Joint2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\joint\MP_Joint3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\surfaceLoad\SurfaceLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\surfaceLoad\TriSurfaceLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\feap\fElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\feap\fElmt02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\feap\fElmt05.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\pipe\Pipe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\pipe\CurvedPipe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\MVLEM_3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\MVLEM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\SFI_MVLEM_3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\E_SFI_MVLEM_3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\SFI_MVLEM.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mvlem\E_SFI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\pyMacro\PY_Macro2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\BBarBrickUP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\BBarFourNodeQuadUP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\BrickUP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\FourNodeQuadUP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\Nine_Four_Node_QuadUP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\shp3dv.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UP-ucsd\Twenty_Eight_Node_BrickUP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SimpleContact2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SimpleContact3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamContact2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamContact2Dp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamContact3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamContact3Dp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamEndContact3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\BeamEndContact3Dp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SSPquad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SSPquadUP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SSPbrick.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\SSPbrickUP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\Quad4FiberOverlay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\Brick8FiberOverlay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\QuadBeamEmbedContact.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\PileToe3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\EmbeddedBeamInterfaceL.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\EmbeddedBeamInterfaceP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\EmbeddedEPBeamInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\UWelements\Tcl_generateInterfacePoints.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\MultipleShearSpring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\MultipleNormalSpring.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\YamamotoBiaxialHDR.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\HUelements\KikuchiBearing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\XMUelements\AC3D8HexWithSensitivity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\XMUelements\ASI3D8QuadWithSensitivity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\XMUelements\AV3D4QuadWithSensitivity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\XMUelements\VS3D4QuadWithSensitivity.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\masonry\BeamGT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\masonry\MasonPan12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\masonry\MasonPan3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\CEqElement\ASDEmbeddedNodeElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\IGA\IGAKLShell.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\IGA\IGAKLShell_BendingStrip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\element\mefi\MEFI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{714A776C-966F-3E22-BB08-C56594A02E88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C200085A-6D08-330E-8C6D-DACE26C8DA8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

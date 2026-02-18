@@ -1,0 +1,10 @@
+^C:\USERS\CARVA\SOURCE\REPOS\CARVALHOCARLOS\OPENSEES\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/carva/source/repos/carvalhocarlos/OpenSees -BC:/Users/carva/source/repos/carvalhocarlos/OpenSees --check-stamp-file C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

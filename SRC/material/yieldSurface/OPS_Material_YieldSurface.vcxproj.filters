@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\BkStressLimSurface2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\BoundingSurface2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\CombinedIsoKin2D01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\CombinedIsoKin2D02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\Isotropic2D01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\Kinematic2D01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\Kinematic2D02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\NullEvolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\PeakOriented2D01.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\PeakOriented2D02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\PlasticHardening2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\YS_Evolution2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\YS_Evolution.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\plasticHardeningMaterial\ExponReducing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\plasticHardeningMaterial\MultiLinearKp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\plasticHardeningMaterial\NullPlasticMaterial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\plasticHardeningMaterial\PlasticHardeningMaterial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\Attalla2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\ElTawil2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\ElTawil2DUnSym.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\Hajjar2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\NullYS2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\Orbison2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\YieldSurface_BC2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\YieldSurface_BC.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\BkStressLimSurface2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\BoundingSurface2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\CombinedIsoKin2D01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\CombinedIsoKin2D02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\Isotropic2D01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\Kinematic2D01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\Kinematic2D02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\NullEvolution.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\PeakOriented2D01.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\PeakOriented2D02.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\PlasticHardening2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\YS_Evolution2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\evolution\YS_Evolution.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\plasticHardeningMaterial\ExponReducing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\plasticHardeningMaterial\MultiLinearKp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\plasticHardeningMaterial\NullPlasticMaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\plasticHardeningMaterial\PlasticHardeningMaterial.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\Attalla2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\ElTawil2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\ElTawil2DUnSym.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\Hajjar2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\NullYS2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\Orbison2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\YieldSurface_BC2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\yieldSurfaceBC\YieldSurface_BC.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\yieldSurface\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{714A776C-966F-3E22-BB08-C56594A02E88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C200085A-6D08-330E-8C6D-DACE26C8DA8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -912,46 +912,101 @@ ElasticBeam3d::addLoad(ElementalLoad *theLoad, double loadFactor)
     
   }
   else if (type == LOAD_TAG_Beam3dPartialUniformLoad) {
-	  double wa = data(2) * loadFactor;  // Axial
-	  double wy = data(0) * loadFactor;  // Transverse
-	  double wz = data(1) * loadFactor;  // Transverse
-	  double a = data(3) * L;
-	  double b = data(4) * L;
-	  double c = 0.5 * (b + a);
-	  double cOverL = c / L;
+      //printf("fuckyou elasticbeam3d.cpp");
+	  //double wa = data(2) * loadFactor;  // Axial
+	  //double wy = data(0) * loadFactor;  // Transverse
+	  //double wz = data(1) * loadFactor;  // Transverse
+	  //double a = data(3) * L;
+	  //double b = data(4) * L;
+	  //double c = 0.5 * (b + a);
+	  //double cOverL = c / L;
 
-	  double P = wa * (b - a);
-	  double Fy = wy * (b - a);
-	  double Fz = wz * (b - a);
+	  //double P = wa * (b - a);
+	  //double Fy = wy * (b - a);
+	  //double Fz = wz * (b - a);
 
-	  // Reactions in basic system
-	  p0[0] -= P;
-	  double V1, V2;
-	  V1 = Fy * (1.0 - cOverL);
-	  V2 = Fy * cOverL;
-	  p0[1] -= V1;
-	  p0[2] -= V2;
-	  V1 = Fz * (1.0 - cOverL);
-	  V2 = Fz * cOverL;
-	  p0[3] -= V1;
-	  p0[4] -= V2;
+	  //// Reactions in basic system
+	  //p0[0] -= P;
+	  //double V1, V2;
+	  //V1 = Fy * (1.0 - cOverL);
+	  //V2 = Fy * cOverL;
+	  //p0[1] -= V1;
+	  //p0[2] -= V2;
+	  //V1 = Fz * (1.0 - cOverL);
+	  //V2 = Fz * cOverL;
+	  //p0[3] -= V1;
+	  //p0[4] -= V2;
 
-	  // Fixed end forces in basic system
-	  q0[0] -= P * cOverL;
-	  double M1, M2;
-	  double beta2 = (1 - cOverL) * (1 - cOverL);
-	  double alfa2 = (cOverL) * (cOverL);
-	  double gamma2 = (b - a) / L;
-	  gamma2 *= gamma2;
+	  //// Fixed end forces in basic system
+	  //q0[0] -= P * cOverL;
+	  //double M1, M2;
+	  //double beta2 = (1 - cOverL) * (1 - cOverL);
+	  //double alfa2 = (cOverL) * (cOverL);
+	  //double gamma2 = (b - a) / L;
+	  //gamma2 *= gamma2;
 
-	  M1 = -wy * (b - a) * (c * beta2 + gamma2 / 12.0 * (L - 3 * (L - c)));
-	  M2 = wy * (b - a) * ((L - c) * alfa2 + gamma2 / 12.0 * (L - 3 * c));
-	  q0[1] += M1;
-	  q0[2] += M2;
-	  M1 = -wz * (b - a) * (c * beta2 + gamma2 / 12.0 * (L - 3 * (L - c)));
-	  M2 = wz * (b - a) * ((L - c) * alfa2 + gamma2 / 12.0 * (L - 3 * c));
-	  q0[3] -= M1;
-	  q0[4] -= M2;
+	  //M1 = -wy * (b - a) * (c * beta2 + gamma2 / 12.0 * (L - 3 * (L - c)));
+	  //M2 = wy * (b - a) * ((L - c) * alfa2 + gamma2 / 12.0 * (L - 3 * c));
+	  //q0[1] += M1;
+	  //q0[2] += M2;
+	  //M1 = -wz * (b - a) * (c * beta2 + gamma2 / 12.0 * (L - 3 * (L - c)));
+	  //M2 = wz * (b - a) * ((L - c) * alfa2 + gamma2 / 12.0 * (L - 3 * c));
+	  //q0[3] -= M1;
+	  //q0[4] -= M2;
+
+      // These equations should works for partial trapezoidal load
+      double waa = data(2) * loadFactor;  // Axial
+      double wab = data(7) * loadFactor;  // Axial
+      double wya = data(0) * loadFactor;  // TransverseY
+      double wyb = data(5) * loadFactor;  // TransverseY
+      double a = data(3) * L;
+      double b = data(4) * L;
+      double wza = data(1) * loadFactor;  // TransverseZ
+      double wzb = data(6) * loadFactor;  // TransverseZ
+
+      // auxiliary values
+      double ba = b - a;
+      double ba2 = pow(b, 2.0) - pow(a, 2.0);
+      double ba3 = pow(b, 3.0) - pow(a, 3.0);
+      double ba4 = pow(b, 4.0) - pow(a, 4.0);
+      double ba5 = pow(b, 5.0) - pow(a, 5.0);
+      double z1 = wya + (wya * a) / ba - (wyb * a) / ba;
+      double z2 = wza + (wza * a) / ba - (wzb * a) / ba;
+      double wybpa = wya + wyb;
+      double wybma = wyb - wya;
+      double wzbpa = wza + wzb;
+      double wzbma = wzb - wza;
+      double L2 = pow(L, 2.0);
+
+      // equivalent nodal forces YY e Axial
+      double Fyt = 0.5 * wybpa * ba;
+      double Vy2 = (1.0 / L) * (wya * ba * (a + 0.5 * ba) + 0.5 * wybma * ba * (a + (2.0 / 3.0) * ba));
+      double Vy1 = Fyt - Vy2;
+      double My1 = (0.5 * z1 * ba2) + (wybma * ba3 / (3.0 * ba)) - (z1 * ba3 * 2.0 / (3.0 * L)) - (wybma * ba4 / (2.0 * L * ba)) + (z1 * ba4 / (4.0 * L2)) + (wybma * ba5 / (5.0 * L2 * ba));
+      double My2 = (-1.0 * z1 * ba3 / (3.0 * L)) - (wybma * ba4 / (4.0 * L * ba)) + (z1 * ba4 / (4.0 * L2)) + (wybma * ba5 / (5.0 * L2 * ba));
+      double P = waa * ba + 0.5 * (wab - waa) * ba;
+      double PJ = (1.0 / L) * (waa * ba * (a + 0.5 * ba) + 0.5 * (wab - waa) * ba * (a + (2.0 / 3.0) * ba));
+
+      // equivalent nodal forces ZZ
+      double Fzt = 0.5 * wzbpa * ba;
+      double Vz2 = (1.0 / L) * (wza * ba * (a + 0.5 * ba) + 0.5 * wzbma * ba * (a + (2.0 / 3.0) * ba));
+      double Vz1 = Fzt - Vz2;
+      double Mz1 = (0.5 * z2 * ba2) + (wzbma * ba3 / (3.0 * ba)) - (z2 * ba3 * 2.0 / (3.0 * L)) - (wzbma * ba4 / (2.0 * L * ba)) + (z2 * ba4 / (4.0 * L2)) + (wzbma * ba5 / (5.0 * L2 * ba));
+      double Mz2 = (-1.0 * z2 * ba3 / (3.0 * L)) - (wzbma * ba4 / (4.0 * L * ba)) + (z2 * ba4 / (4.0 * L2)) + (wzbma * ba5 / (5.0 * L2 * ba));
+
+      // Reactions in basic system
+      p0[0] -= P;
+      p0[1] -= Vy1;
+      p0[2] -= Vy2;
+      p0[3] -= Vz1;
+      p0[4] -= Vz2;
+
+      // Fixed end forces in basic system
+      q0[0] -= PJ;
+      q0[1] -= My1;
+      q0[2] -= My2;
+      q0[3] -= Mz1;
+      q0[4] -= Mz2;
   }
   else if (type == LOAD_TAG_Beam3dPointLoad) {
     double Py = data(0)*loadFactor;

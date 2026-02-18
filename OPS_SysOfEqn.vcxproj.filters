@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\DomainSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\LinearSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\LinearSOESolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandGEN\BandGenLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandGEN\BandGenLinSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandGEN\BandGenLinLapackSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandGEN\DistributedBandGenLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandSPD\BandSPDLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandSPD\BandSPDLinSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandSPD\BandSPDLinLapackSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandSPD\DistributedBandSPDLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DiagonalSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DiagonalSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DiagonalDirectSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DistributedDiagonalSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DistributedDiagonalSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\fullGEN\FullGenLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\fullGEN\FullGenLinSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\fullGEN\FullGenLinLapackSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SparseGenColLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SparseGenColLinSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SparseGenRowLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SparseGenRowLinSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SuperLU.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\SymSparseLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\SymSparseLinSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\grcm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\nest.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\nmat.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\symbolic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\utility.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\newordr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\nnsim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\umfGEN\UmfpackGenLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\umfGEN\UmfpackGenLinSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinDirectSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinSubstrSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinDirectBlockSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinDirectSkypackSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\DistributedProfileSPDLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\ArpackSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\ArpackSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\EigenSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\EigenSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\FullGenEigenSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\FullGenEigenSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\SymBandEigenSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\SymBandEigenSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\BandArpackSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\BandArpackSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\SymArpackSOE.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\SymArpackSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\Solver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\SystemOfEqn.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\DomainSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\LinearSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\LinearSOESolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandGEN\BandGenLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandGEN\BandGenLinSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandGEN\BandGenLinLapackSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandGEN\DistributedBandGenLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandSPD\BandSPDLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandSPD\BandSPDLinSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandSPD\BandSPDLinLapackSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\bandSPD\DistributedBandSPDLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DiagonalSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DiagonalSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DiagonalDirectSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DistributedDiagonalSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\diagonal\DistributedDiagonalSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\fullGEN\FullGenLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\fullGEN\FullGenLinSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\fullGEN\FullGenLinLapackSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SparseGenColLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SparseGenColLinSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SparseGenRowLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SparseGenRowLinSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseGEN\SuperLU.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\SymSparseLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\sparseSYM\SymSparseLinSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\umfGEN\UmfpackGenLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\umfGEN\UmfpackGenLinSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinDirectSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinSubstrSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinDirectBlockSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\ProfileSPDLinDirectSkypackSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\DistributedProfileSPDLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\linearSOE\profileSPD\SProfileSPDLinSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\ArpackSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\ArpackSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\EigenSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\EigenSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\FullGenEigenSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\FullGenEigenSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\SymBandEigenSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\SymBandEigenSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\BandArpackSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\BandArpackSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\SymArpackSOE.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\system_of_eqn\eigenSOE\SymArpackSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{714A776C-966F-3E22-BB08-C56594A02E88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C200085A-6D08-330E-8C6D-DACE26C8DA8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

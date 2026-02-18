@@ -1,0 +1,81 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/UMFPACK/CMakeLists.txt
+cl : command line  warning D9002: ignoring unknown option '-fexceptions'
+cl : command line  warning D9002: ignoring unknown option '-fPIC'
+  umf_assemble.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(115,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(135,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(266,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(282,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(642,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(663,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(689,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(736,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(761,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(820,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(838,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(884,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(968,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(995,9): warning C4068: unknown pragma 'ivdep'
+  umf_blas3_update.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_blas3_update.c(80,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_blas3_update.c(116,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_blas3_update.c(151,9): warning C4068: unknown pragma 'ivdep'
+  umf_build_tuples.c
+  umf_create_element.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_create_element.c(30,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_create_element.c(99,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_create_element.c(112,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_create_element.c(136,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_create_element.c(157,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_create_element.c(175,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_create_element.c(184,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_create_element.c(286,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_create_element.c(291,9): warning C4068: unknown pragma 'ivdep'
+  umf_extend_front.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_extend_front.c(34,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_extend_front.c(48,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_extend_front.c(62,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_extend_front.c(76,9): warning C4068: unknown pragma 'ivdep'
+  umf_garbage_collection.c
+  umf_get_memory.c
+  umf_init_front.c
+  umf_kernel.c
+  umf_kernel_init.c
+  umf_kernel_wrapup.c
+  umf_local_search.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_local_search.c(487,9): warning C4068: unknown pragma 'ivdep'
+  umf_lsolve.c
+  umf_ltsolve.c
+  umf_mem_alloc_element.c
+  umf_mem_alloc_head_block.c
+  umf_mem_alloc_tail_block.c
+  umf_mem_free_tail_block.c
+  umf_mem_init_memoryspace.c
+  umf_report_vector.c
+  Generating Code...
+  Compiling...
+  umf_row_search.c
+  umf_scale_column.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_scale_column.c(33,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_scale_column.c(160,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_scale_column.c(175,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_scale_column.c(235,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_scale_column.c(249,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_scale_column.c(261,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_scale_column.c(304,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_scale_column.c(318,9): warning C4068: unknown pragma 'ivdep'
+  umf_set_stats.c
+  umf_solve.c
+  umf_symbolic_usage.c
+  umf_transpose.c
+  umf_tuple_lengths.c
+  umf_usolve.c
+  umf_utsolve.c
+  umf_valid_numeric.c
+  umf_valid_symbolic.c
+  umf_grow_front.c
+  umf_start_front.c
+  umf_store_lu.c
+  umf_scale.c
+  Generating Code...
+  UMF.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\Release\UMF.lib

@@ -1,0 +1,100 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  DomainComponent.cpp
+  Parameter.cpp
+  ElementParameter.cpp
+  NodeResponseParameter.cpp
+  LoadFactorParameter.cpp
+  MaterialStageParameter.cpp
+  MatParameter.cpp
+  ElementStateParameter.cpp
+  InitialStateParameter.cpp
+  RVParameter.cpp
+  DVParameter.cpp
+  Domain.cpp
+  DomainModalProperties.cpp
+  SingleDomEleIter.cpp
+  SingleDomNodIter.cpp
+  SingleDomSP_Iter.cpp
+  SingleDomMP_Iter.cpp
+  SingleDomAllSP_Iter.cpp
+  SingleDomParamIter.cpp
+  SingleDomPC_Iter.cpp
+  Generating Code...
+  Compiling...
+  Load.cpp
+  ElementalLoadIter.cpp
+  NodalLoadIter.cpp
+  Beam2dUniformLoad.cpp
+  Beam2dPointLoad.cpp
+  Beam2dPartialUniformLoad.cpp
+  Beam3dUniformLoad.cpp
+  Beam3dPointLoad.cpp
+  Beam3dPartialUniformLoad.cpp
+  BrickSelfWeight.cpp
+  SurfaceLoader.cpp
+  SelfWeight.cpp
+  LysmerVelocityLoader.cpp
+  Node.cpp
+  NodalLoad.cpp
+  Subdomain.cpp
+  SubdomainNodIter.cpp
+  ActorSubdomain.cpp
+  ShadowSubdomain.cpp
+  MP_Constraint.cpp
+  Generating Code...
+  Compiling...
+  RigidBeam.cpp
+  RigidDiaphragm.cpp
+  RigidRod.cpp
+  SP_Constraint.cpp
+  Pressure_Constraint.cpp
+  ImposedMotionSP.cpp
+  ImposedMotionSP1.cpp
+  ConstantSeries.cpp
+  EarthquakePattern.cpp
+  LinearSeries.cpp
+  LoadPattern.cpp
+  LoadPatternIter.cpp
+  MultiSupportPattern.cpp
+  PathSeries.cpp
+  PathTimeSeries.cpp
+  PulseSeries.cpp
+  RectangularSeries.cpp
+  SimpsonTimeSeriesIntegrator.cpp
+  TimeSeries.cpp
+  TimeSeriesIntegrator.cpp
+  Generating Code...
+  Compiling...
+  TrapezoidalTimeSeriesIntegrator.cpp
+  TriangleSeries.cpp
+  TrigSeries.cpp
+  RampSeries.cpp
+  MPAccSeries.cpp
+  UniformExcitation.cpp
+  FireLoadPattern.cpp
+  PathTimeSeriesThermal.cpp
+  PeerMotion.cpp
+  PeerNGAMotion.cpp
+  Mesh3DSubdomain.cpp
+  GeometricBrickDecorator.cpp
+  DRMBoundaryLayerDecorator.cpp
+  DRMLoadPattern.cpp
+  DRMLoadPatternWrapper.cpp
+  DRMInputHandler.cpp
+  PlaneDRMInputHandler.cpp
+  H5DRMLoadPattern.cpp
+  GroundMotion.cpp
+  GroundMotionRecord.cpp
+  Generating Code...
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PathTimeSeriesThermal.cpp(263,1): warning C4172: returning address of local variable or temporary 
+  Compiling...
+  InterpolatedGroundMotion.cpp
+  MeshRegion.cpp
+  DomainPartitioner.cpp
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\partitioner\DomainPartitioner.cpp(608,8): warning C4804: '<': unsafe use of type 'bool' in operation
+  gaussQuadrature.cpp
+  IGASurfacePatch.cpp
+  IGAFollowerLoad.cpp
+  NurbsDers.cpp
+  Generating Code...
+  OPS_Domain.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Domain.dir\Release\OPS_Domain.lib

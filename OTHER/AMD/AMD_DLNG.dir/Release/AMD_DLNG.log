@@ -1,0 +1,17 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/AMD/CMakeLists.txt
+cl : command line  warning D9002: ignoring unknown option '-fexceptions'
+cl : command line  warning D9002: ignoring unknown option '-fPIC'
+  amd_aat.c
+  amd_1.c
+  amd_2.c
+  amd_dump.c
+  amd_postorder.c
+  amd_post_tree.c
+  amd_defaults.c
+  amd_order.c
+  amd_control.c
+  amd_info.c
+  amd_valid.c
+  amd_preprocess.c
+  Generating Code...
+  AMD_DLNG.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\lib\AMD_DLNG.lib

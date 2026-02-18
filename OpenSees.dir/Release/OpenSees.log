@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  tclAppInit.cpp
+  tclMain.cpp
+  commands.cpp
+  FEM_ObjectBrokerAllClasses.cpp
+  Generating Code...
+LINK : fatal error LNK1181: cannot open input file 'lib\OpenSeesLIB.lib'

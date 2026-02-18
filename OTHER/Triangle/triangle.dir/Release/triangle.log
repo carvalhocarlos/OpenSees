@@ -1,0 +1,79 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/Triangle/CMakeLists.txt
+  triangle.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3690,10): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3690,10):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3696,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3696,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3703,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3703,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3710,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3710,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3718,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3718,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3725,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3725,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3732,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3732,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3739,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3739,14):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3744,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3744,14):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3749,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3749,14):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3784,10): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3784,10):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3790,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3790,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3797,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3797,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3805,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3805,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3812,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3812,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3820,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3820,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3827,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3827,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3835,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3835,12):
+      consider using '%zx' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3842,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'size_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\Triangle\triangle.c(3842,12):
+      consider using '%zx' in the format string
+  
+  triangle.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\lib\triangle.lib

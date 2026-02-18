@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  ConvergenceTest.cpp
+  CTestNormUnbalance.cpp
+  CTestNormDispIncr.cpp
+  CTestEnergyIncr.cpp
+  CTestRelativeNormUnbalance.cpp
+  CTestRelativeNormDispIncr.cpp
+  CTestRelativeEnergyIncr.cpp
+  CTestFixedNumIter.cpp
+  CTestRelativeTotalNormDispIncr.cpp
+  NormDispAndUnbalance.cpp
+  NormDispOrUnbalance.cpp
+  Generating Code...
+  OPS_ConvergenceTest.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_ConvergenceTest.dir\Release\OPS_ConvergenceTest.lib

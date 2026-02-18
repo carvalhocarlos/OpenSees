@@ -1,0 +1,18 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/UMFPACK/CMakeLists.txt
+cl : command line  warning D9002: ignoring unknown option '-fexceptions'
+cl : command line  warning D9002: ignoring unknown option '-fPIC'
+  umf_analyze.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_analyze.c(93,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_analyze.c(580,9): warning C4068: unknown pragma 'novector'
+  umf_apply_order.c
+  umf_colamd.c
+  umf_free.c
+  umf_fsize.c
+  umf_is_permutation.c
+  umf_malloc.c
+  umf_realloc.c
+  umf_report_perm.c
+  umf_singletons.c
+  umf_cholmod.c
+  Generating Code...
+  UMFPACK_II.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\Release\UMFPACK_II.lib

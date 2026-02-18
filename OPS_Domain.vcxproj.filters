@@ -1,0 +1,564 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\DomainComponent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\Parameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\ElementParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\NodeResponseParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\LoadFactorParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\MaterialStageParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\MatParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\ElementStateParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\InitialStateParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\RVParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\DVParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\Domain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\DomainModalProperties.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomEleIter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomNodIter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomSP_Iter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomMP_Iter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomAllSP_Iter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomParamIter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomPC_Iter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Load.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\ElementalLoadIter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\NodalLoadIter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam2dUniformLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam2dPointLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam2dPartialUniformLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam3dUniformLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam3dPointLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam3dPartialUniformLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\BrickSelfWeight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\SurfaceLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\SelfWeight.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\LysmerVelocityLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\node\Node.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\node\NodalLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\subdomain\Subdomain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\subdomain\SubdomainNodIter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\subdomain\ActorSubdomain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\subdomain\ShadowSubdomain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\MP_Constraint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\RigidBeam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\RigidDiaphragm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\RigidRod.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\SP_Constraint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\Pressure_Constraint.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\ImposedMotionSP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\ImposedMotionSP1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\ConstantSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\EarthquakePattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\LinearSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\LoadPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\LoadPatternIter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\MultiSupportPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PathSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PathTimeSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PulseSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\RectangularSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\SimpsonTimeSeriesIntegrator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TimeSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TimeSeriesIntegrator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TrapezoidalTimeSeriesIntegrator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TriangleSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TrigSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\RampSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\MPAccSeries.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\UniformExcitation.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\FireLoadPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PathTimeSeriesThermal.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PeerMotion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PeerNGAMotion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\Mesh3DSubdomain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\GeometricBrickDecorator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\DRMBoundaryLayerDecorator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\DRMLoadPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\DRMLoadPatternWrapper.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\DRMInputHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\PlaneDRMInputHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\H5DRMLoadPattern.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\groundMotion\GroundMotion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\groundMotion\GroundMotionRecord.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\groundMotion\InterpolatedGroundMotion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\region\MeshRegion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\partitioner\DomainPartitioner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\IGA\gaussQuadrature.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\IGA\IGASurfacePatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\IGA\IGAFollowerLoad.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\IGA\NurbsDers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\DomainComponent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\Parameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\ElementParameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\NodeResponseParameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\LoadFactorParameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\MaterialStageParameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\MatParameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\ElementStateParameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\InitialStateParameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\RVParameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\component\DVParameter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\Domain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\DomainModalProperties.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\ElementIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\LoadCaseIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\MP_ConstraintIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\NodeIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\ParameterIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\Pressure_ConstraintIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\SP_ConstraintIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\SubdomainIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomEleIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomNodIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomSP_Iter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomMP_Iter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomAllSP_Iter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomParamIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\domain\single\SingleDomPC_Iter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Load.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\ElementalLoadIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\NodalLoadIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam2dUniformLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam2dPointLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam2dPartialUniformLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam3dUniformLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam3dPointLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\Beam3dPartialUniformLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\BrickSelfWeight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\SurfaceLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\SelfWeight.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\LysmerVelocityLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\node\Node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\node\NodalLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\subdomain\Subdomain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\subdomain\SubdomainNodIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\subdomain\ActorSubdomain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\subdomain\ShadowSubdomain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\MP_Constraint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\RigidBeam.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\RigidDiaphragm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\RigidRod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\SP_Constraint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\Pressure_Constraint.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\ImposedMotionSP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\constraints\ImposedMotionSP1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\ConstantSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\EarthquakePattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\LinearSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\LoadPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\LoadPatternIter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\MultiSupportPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PathSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PathTimeSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PulseSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\RectangularSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\SimpsonTimeSeriesIntegrator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TimeSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TimeSeriesIntegrator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TrapezoidalTimeSeriesIntegrator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TriangleSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\TrigSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\RampSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\MPAccSeries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\UniformExcitation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\FireLoadPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PathTimeSeriesThermal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PeerMotion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\PeerNGAMotion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\Mesh3DSubdomain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\GeometricBrickDecorator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\DRMBoundaryLayerDecorator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\DRMLoadPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\DRMLoadPatternWrapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\DRMInputHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\PlaneDRMInputHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\pattern\drm\H5DRMLoadPattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\groundMotion\GroundMotion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\groundMotion\GroundMotionRecord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\groundMotion\InterpolatedGroundMotion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\region\MeshRegion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\partitioner\DomainPartitioner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\IGA\gaussQuadrature.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\IGA\IGASurfacePatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\IGA\IGAFollowerLoad.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\IGA\NurbsDers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{714A776C-966F-3E22-BB08-C56594A02E88}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C200085A-6D08-330E-8C6D-DACE26C8DA8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

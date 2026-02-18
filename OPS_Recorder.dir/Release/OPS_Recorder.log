@@ -1,0 +1,33 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  DamageRecorder.cpp
+  DatastoreRecorder.cpp
+  DriftRecorder.cpp
+  ElementRecorder.cpp
+  ElementRecorderRMS.cpp
+  EnvelopeDriftRecorder.cpp
+  EnvelopeElementRecorder.cpp
+  EnvelopeNodeRecorder.cpp
+  GSA_Recorder.cpp
+  GmshRecorder.cpp
+  MaxNodeDispRecorder.cpp
+  NodeRecorder.cpp
+  NodeRecorderRMS.cpp
+  NormElementRecorder.cpp
+  NormEnvelopeElementRecorder.cpp
+  PatternRecorder.cpp
+  PVDRecorder.cpp
+  Recorder.cpp
+  RemoveRecorder.cpp
+  VTK_Recorder.cpp
+  Generating Code...
+  Compiling...
+  MPCORecorder.cpp
+  VTKHDF_Recorder.cpp
+  Response.cpp
+  MaterialResponse.cpp
+  ElementResponse.cpp
+  FiberResponse.cpp
+  CompositeResponse.cpp
+  CrdTransfResponse.cpp
+  Generating Code...
+  OPS_Recorder.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Recorder.dir\Release\OPS_Recorder.lib

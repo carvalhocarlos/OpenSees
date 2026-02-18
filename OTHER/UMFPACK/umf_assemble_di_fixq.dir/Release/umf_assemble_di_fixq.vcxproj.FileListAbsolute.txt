@@ -1,0 +1,1 @@
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble_di_fixq.dir\Release\umf_assemble_di_fixq.lib

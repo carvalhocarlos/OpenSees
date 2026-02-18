@@ -1,0 +1,19 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/UMFPACK/CMakeLists.txt
+cl : command line  warning D9002: ignoring unknown option '-fexceptions'
+cl : command line  warning D9002: ignoring unknown option '-fPIC'
+  umf_assemble.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(115,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(135,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(266,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(282,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(642,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(663,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(689,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(736,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(761,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(820,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(838,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(884,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(968,9): warning C4068: unknown pragma 'ivdep'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble.c(995,9): warning C4068: unknown pragma 'ivdep'
+  umf_assemble_di_fixq.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble_di_fixq.dir\Release\umf_assemble_di_fixq.lib

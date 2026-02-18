@@ -1,0 +1,45 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/SuperLU_5.1.1/CMakeLists.txt
+  dgssv.c
+  dgssvx.c
+  dsp_blas2.c
+  dsp_blas3.c
+  dgscon.c
+  dlangs.c
+  dgsequ.c
+  dlaqgs.c
+  dpivotgrowth.c
+  dgsrfs.c
+  dgstrf.c
+  dgstrs.c
+  dcopy_to_ucol.c
+  dsnode_dfs.c
+  dsnode_bmod.c
+  dpanel_dfs.c
+  dpanel_bmod.c
+  dreadhb.c
+  dreadrb.c
+  dreadtriple.c
+  Generating Code...
+  Compiling...
+  dcolumn_dfs.c
+  dcolumn_bmod.c
+  dpivotL.c
+  dpruneL.c
+  dmemory.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\SRC\dmemory.c(639,24): warning C4311: 'type cast': pointer truncation from 'char *' to 'long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\SRC\dmemory.c(640,24): warning C4311: 'type cast': pointer truncation from 'char *' to 'long'
+  dutil.c
+  dmyblas2.c
+  dgsisx.c
+  dgsitrf.c
+  dldperm.c
+  ilu_ddrop_row.c
+  ilu_dsnode_dfs.c
+  ilu_dcolumn_dfs.c
+  ilu_dpanel_dfs.c
+  ilu_dcopy_to_ucol.c
+  ilu_dpivotL.c
+  ddiagonal.c
+  dlacon2.c
+  Generating Code...
+  DLUSRC.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\Release\DLUSRC.lib

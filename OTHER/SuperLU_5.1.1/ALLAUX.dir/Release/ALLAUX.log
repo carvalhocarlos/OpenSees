@@ -1,0 +1,25 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/SuperLU_5.1.1/CMakeLists.txt
+  superlu_timer.c
+  util.c
+  memory.c
+  get_perm_c.c
+  mmd.c
+  sp_coletree.c
+  sp_preorder.c
+  sp_ienv.c
+  relax_snode.c
+  heap_relax_snode.c
+  colamd.c
+  ilu_relax_snode.c
+  ilu_heap_relax_snode.c
+  mark_relax.c
+  mc64ad.c
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\SRC\mc64ad.c(16,9): warning C4005: 'min': macro redefinition
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdlib.h(1283,17):
+      see previous definition of 'min'
+  
+  qselect.c
+  input_error.c
+  smach.c
+  Generating Code...
+  ALLAUX.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\Release\ALLAUX.lib

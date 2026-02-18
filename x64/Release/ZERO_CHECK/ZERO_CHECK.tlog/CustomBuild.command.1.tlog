@@ -1,0 +1,10 @@
+^C:\USERS\CARVA\SOURCE\REPOS\CARVALHOCARLOS\OPENSEES\CMAKEFILES\DB3816E0FCF2F22C65AD64A456F37808\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/carva/source/repos/carvalhocarlos/OpenSees -BC:/Users/carva/source/repos/carvalhocarlos/OpenSees --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OpenSeesFramework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

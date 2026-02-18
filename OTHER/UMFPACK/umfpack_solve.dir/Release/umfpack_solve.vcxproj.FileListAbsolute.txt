@@ -1,0 +1,1 @@
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umfpack_solve.dir\Release\umfpack_solve.lib

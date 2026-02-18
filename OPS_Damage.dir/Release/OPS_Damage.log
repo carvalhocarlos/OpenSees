@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  DamageModel.cpp
+  HystereticEnergy.cpp
+  Kratzig.cpp
+  Mehanny.cpp
+  ParkAng.cpp
+  NormalizedPeak.cpp
+  DamageResponse.cpp
+  Generating Code...
+  OPS_Damage.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Damage.dir\Release\OPS_Damage.lib

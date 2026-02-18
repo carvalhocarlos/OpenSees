@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/UMFPACK/CMakeLists.txt
+cl : command line  warning D9002: ignoring unknown option '-fexceptions'
+cl : command line  warning D9002: ignoring unknown option '-fPIC'
+  umf_store_lu.c
+  umf_store_lu_drop.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_store_lu_drop.dir\Release\umf_store_lu_drop.lib

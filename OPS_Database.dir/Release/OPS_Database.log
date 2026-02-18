@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  FE_Datastore.cpp
+  FileDatastore.cpp
+  Generating Code...
+  OPS_Database.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Database.dir\Release\OPS_Database.lib

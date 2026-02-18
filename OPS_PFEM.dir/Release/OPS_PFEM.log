@@ -1,0 +1,58 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  PFEMIntegrator.cpp
+  PFEMAnalysis.cpp
+  CTestPFEM.cpp
+  BackgroundDef.cpp
+  BackgroundFixData.cpp
+  BackgroundGrid.cpp
+  BackgroundMesh.cpp
+  BackgroundStructure.cpp
+  BCell.cpp
+  BNode.cpp
+  HigherOrder.cpp
+  LineMesh.cpp
+  LineMeshGenerator.cpp
+  Mesh.cpp
+  MINI.cpp
+  Particle.cpp
+  ParticleGroup.cpp
+  PFEMContact2D.cpp
+  PFEMContact3D.cpp
+  PFEMElement2DBubble.cpp
+  Generating Code...
+  Compiling...
+  PFEMElement2DCompressible.cpp
+  PFEMElement2D.cpp
+  PFEMElement2DFIC.cpp
+  PFEMElement2Dmini.cpp
+  PFEMElement2DQuasi.cpp
+  PFEMElement3DBubble.cpp
+  PFEMElement3D.cpp
+  PFEMMesher3D.cpp
+  QuadMesh.cpp
+  QuadMeshGenerator.cpp
+  TaylorHood2D.cpp
+  TetMesh.cpp
+  TetMeshGenerator.cpp
+  TriangleMeshGenerator.cpp
+  TriGaussPoints.cpp
+  TriMesh.cpp
+  Flume.cpp
+  BeamBrick.cpp
+  BeamDisk.cpp
+  PFEMCompressibleLinSOE.cpp
+  Generating Code...
+  Compiling...
+  PFEMCompressibleSolver.cpp
+  PFEMDiaLinSOE.cpp
+  PFEMDiaSolver.cpp
+  PFEMLinSOE.cpp
+  PFEMQuasiLinSOE.cpp
+  PFEMQuasiSolver.cpp
+  PFEMSolver.cpp
+  PFEMSolver_Laplace.cpp
+  PFEMSolver_LumpM.cpp
+  PFEMSolver_Umfpack.cpp
+  PFEMSolver_Mumps.cpp
+  Generating Code...
+  OPS_PFEM.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_PFEM.dir\Release\OPS_PFEM.lib

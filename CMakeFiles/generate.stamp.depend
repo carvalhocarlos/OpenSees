@@ -1,0 +1,82 @@
+# CMake generation dependency list for this directory.
+C:/Program Files (x86)/Intel/oneAPI/mkl/latest/lib/cmake/mkl/MKLConfig.cmake
+C:/Program Files (x86)/Intel/oneAPI/mkl/latest/lib/cmake/mkl/MKLConfigVersion.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeCompilerIdDetection.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompiler.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerABI.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineCompilerId.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeDetermineFortranCompiler.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeFindBinUtils.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeFortranCompiler.cmake.in
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeFortranCompilerABI.F90
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeFortranInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeParseImplicitIncludeInfo.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeParseImplicitLinkInfo.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeParseLibraryArchitecture.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestCompilerCommon.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CMakeTestFortranCompiler.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckFortranFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/IntelLLVM-FindBinUtils.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/IntelLLVM-Fortran.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/IntelLLVM.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/CompilerId/VS-Intel.vfproj.in
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindBLAS.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindLAPACK.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindMPI.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindPkgConfig.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindPython.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindPython/Support.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeDetermineLinkerId.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeFortranLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CMakeInspectFortranLinker.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Linker/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Linker/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-Fortran.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-MSVC-Fortran.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-IntelLLVM-Fortran.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-IntelLLVM.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-4.0/Modules/Platform/WindowsPaths.cmake
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeFiles/4.0.2/CMakeCCompiler.cmake
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeFiles/4.0.2/CMakeCXXCompiler.cmake
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeFiles/4.0.2/CMakeFortranCompiler.cmake
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeFiles/4.0.2/CMakeRCCompiler.cmake
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeFiles/4.0.2/CMakeSystem.cmake
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeFiles/IntelVSImplicitPath/output.cmake
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeFiles/cmake.verify_globs
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/Conf.cmake
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/cmake/cmake/OpenSeesFunctions.cmake
+C:/Users/carva/source/repos/carvalhocarlos/OpenSees/conanbuildinfo.cmake

@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  Information.cpp
+  Timer.cpp
+  FileIter.cpp
+  File.cpp
+  SimulationInformation.cpp
+  StringContainer.cpp
+  PeerNGA.cpp
+  Generating Code...
+  OPS_Utilities.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Utilities.dir\Release\OPS_Utilities.lib

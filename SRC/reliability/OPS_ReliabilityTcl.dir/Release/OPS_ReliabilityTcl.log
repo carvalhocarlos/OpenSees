@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/SRC/reliability/CMakeLists.txt
+  DP_RSM_Sim.cpp
+  DP_RSM_Sim_TimeVariant.cpp
+  MonteCarloResponseAnalysis.cpp
+  MultiDimVisPrincPlane.cpp
+  TclEvaluator.cpp
+  TclReliabilityBuilder.cpp
+  Generating Code...
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\reliability\tcl\TclReliabilityBuilder.cpp(4517,1): warning C4700: uninitialized local variable 'theDesignPoint' used
+  OPS_ReliabilityTcl.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\reliability\OPS_ReliabilityTcl.dir\Release\OPS_ReliabilityTcl.lib

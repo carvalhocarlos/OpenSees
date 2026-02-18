@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  Beam2dTempLoad.cpp
+  Beam2dThermalAction.cpp
+  NodalThermalAction.cpp
+  ThermalActionWrapper.cpp
+  Beam3dThermalAction.cpp
+  ShellThermalAction.cpp
+  Generating Code...
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\domain\load\ThermalActionWrapper.cpp(327,1): warning C4172: returning address of local variable or temporary : data
+  OPS_Thermal.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Thermal.dir\Release\OPS_Thermal.lib

@@ -1,0 +1,82 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  myCommands.cpp
+  TclGeomTransfCommand.cpp
+  TclDampingCommand.cpp
+  TclDatabaseCommands.cpp
+  TclParameterCommands.cpp
+  TclUpdateMaterialCommand.cpp
+  TclGroundMotionCommand.cpp
+  TclPatternCommand.cpp
+  TclSeriesCommand.cpp
+  TclSeriesIntegratorCommand.cpp
+  TclRegionCommands.cpp
+  TclElementCommands.cpp
+  TclFourNodeQuadUPCommand.cpp
+  Tcl_generateInterfacePoints.cpp
+  TclActuatorCommand.cpp
+  TclActuatorCorotCommand.cpp
+  TclAdapterCommand.cpp
+  TclBeamWithHingesBuilder.cpp
+  TclBrickCommand.cpp
+  TclTwenty_Node_BrickCommand.cpp
+  Generating Code...
+  Compiling...
+  TclDispBeamColumnIntCommand.cpp
+  TclElasticBeamCommand.cpp
+  TclElastomericBearingBoucWenCommand.cpp
+  TclElastomericBearingPlasticityCommand.cpp
+  TclElastomericBearingUFRPCommand.cpp
+  TclForceBeamColumnCommand.cpp
+  TclFourNodeQuadCommand.cpp
+  TclFlatSliderCommand.cpp
+  TclRJWatsonEQSCommand.cpp
+  TclSingleFPCommand.cpp
+  TclModelBuilderFrictionModelCommand.cpp
+  TclGenericClientCommand.cpp
+  TclGenericCopyCommand.cpp
+  TclGradientInelasticBeamColumnCommand.cpp
+  TclBeamColumnJointCommand.cpp
+  TclJoint2dCommand.cpp
+  TclJoint3dCommand.cpp
+  TclTwoNodeLinkCommand.cpp
+  TclCyclicModelCommands.cpp
+  TclElement2dGNL.cpp
+  Generating Code...
+  Compiling...
+  TclElement2dYS.cpp
+  TclZeroLength.cpp
+  TclModelBuilderNDMaterialCommand.cpp
+  TclFeapMaterialCommand.cpp
+  TclUpdateMaterialStageCommand.cpp
+  TclModelBuilderSectionCommand.cpp
+  TclModelBuilderYS_SectionCommand.cpp
+  TclPyTzQzMaterialCommand.cpp
+  TclModelBuilderUniaxialMaterialCommand.cpp
+  TclModelBuilderBackboneCommand.cpp
+  TclDrainMaterialCommand.cpp
+  TclFedeasMaterialCommand.cpp
+  TclLimitState.cpp
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\limitState\TclLimitState.cpp(574,24): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\uniaxial\limitState\TclLimitState.cpp(592,26): warning C4804: '<': unsafe use of type 'bool' in operation
+  TclSnapMaterialCommand.cpp
+  TclModelBuilderStiffnessDegradationCommand.cpp
+  TclModelBuilderStrengthDegradationCommand.cpp
+  TclModelBuilderUnloadingRuleCommand.cpp
+  TclModelBuilderYS_EvolutionCommand.cpp
+  TclModelBuilderYSPlasticMaterialCommand.cpp
+  TclModelBuilderYieldSurfaceBCCommand.cpp
+  Generating Code...
+  Compiling...
+  TclModelBuilder.cpp
+  TclPlaneStressMaterialTester.cpp
+  TclSectionTester.cpp
+  TclUniaxialMaterialTester.cpp
+  TclOptimizationBuilder.cpp
+  TclRecorderCommands.cpp
+  TclModelBuilderDamageModelCommand.cpp
+  TclFeViewer.cpp
+  TclWrapper.cpp
+  elementAPI_TCL.cpp
+  packages.cpp
+  Generating Code...
+  OPS_InterpTcl.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\lib\OPS_InterpTcl.lib

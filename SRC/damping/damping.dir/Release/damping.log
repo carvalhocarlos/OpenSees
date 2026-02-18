@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/SRC/damping/CMakeLists.txt
+  Damping.cpp
+  SecStifDamping.cpp
+  UniformDamping.cpp
+  URDDamping.cpp
+  URDDampingbeta.cpp
+  Generating Code...
+  damping.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\lib\damping.lib

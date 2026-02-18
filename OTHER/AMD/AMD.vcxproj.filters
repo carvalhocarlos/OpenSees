@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\SuiteSparse_config.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_aat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_dump.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_postorder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_post_tree.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_defaults.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_order.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_control.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_info.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_valid.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DINT.dir\$(Configuration)\amd_preprocess.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_aat.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_1.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_dump.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_postorder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_post_tree.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_defaults.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_order.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_control.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_info.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_valid.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\AMD\AMD_DLNG.dir\$(Configuration)\amd_preprocess.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{D2525C81-472A-30DB-864F-800B264235E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C200085A-6D08-330E-8C6D-DACE26C8DA8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

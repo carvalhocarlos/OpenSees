@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/SRC/material/section/yieldSurface/CMakeLists.txt
+  SoilFootingSection2d.cpp
+  YieldSurfaceSection2d.cpp
+  YS_Section2D01.cpp
+  YS_Section2D02.cpp
+  Generating Code...
+  OPS_Section_YieldSurface.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\section\yieldSurface\OPS_Section_YieldSurface.dir\Release\OPS_Section_YieldSurface.lib

@@ -1,0 +1,58 @@
+{
+ "options": [
+  [
+   "shared",
+   "False"
+  ],
+  [
+   "eigen:MPL2_only",
+   "False"
+  ],
+  [
+   "hdf5:enable_cxx",
+   "True"
+  ],
+  [
+   "hdf5:enable_unsupported",
+   "False"
+  ],
+  [
+   "hdf5:hl",
+   "True"
+  ],
+  [
+   "hdf5:parallel",
+   "False"
+  ],
+  [
+   "hdf5:shared",
+   "False"
+  ],
+  [
+   "hdf5:szip_support",
+   "None"
+  ],
+  [
+   "hdf5:with_zlib",
+   "True"
+  ],
+  [
+   "hdf5:with_zlibng",
+   "False"
+  ],
+  [
+   "tcl:shared",
+   "False"
+  ],
+  [
+   "zlib:shared",
+   "False"
+  ]
+ ],
+ "root": {
+  "name": "OpenSeesDependencies",
+  "version": "1.0.0",
+  "user": null,
+  "channel": null
+ }
+}

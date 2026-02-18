@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_col_to_triplet.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_defaults.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_free_numeric.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_free_symbolic.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_get_numeric.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_get_lunz.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_get_symbolic.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_get_determinant.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_numeric.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_qsymbolic.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_report_control.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_report_info.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_report_matrix.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_report_numeric.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_report_perm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_report_status.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_report_symbolic.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_report_triplet.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_report_vector.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_symbolic.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_transpose.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_triplet_to_col.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_scale.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_load_numeric.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_save_numeric.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_load_symbolic.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_DI.dir\$(Configuration)\umfpack_save_symbolic.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_analyze.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_apply_order.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_colamd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_free.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_fsize.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_is_permutation.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_malloc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_realloc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_report_perm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_singletons.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_II.dir\$(Configuration)\umf_cholmod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_GN.dir\$(Configuration)\umfpack_timer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_GN.dir\$(Configuration)\umfpack_tictoc.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_assemble.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_blas3_update.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_build_tuples.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_create_element.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_extend_front.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_garbage_collection.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_get_memory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_init_front.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_kernel.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_kernel_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_kernel_wrapup.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_local_search.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_lsolve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_ltsolve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_mem_alloc_element.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_mem_alloc_head_block.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_mem_alloc_tail_block.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_mem_free_tail_block.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_mem_init_memoryspace.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_report_vector.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_row_search.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_scale_column.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_set_stats.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_solve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_symbolic_usage.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_transpose.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_tuple_lengths.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_usolve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_utsolve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_valid_numeric.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_valid_symbolic.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_grow_front.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_start_front.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_store_lu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMF.dir\$(Configuration)\umf_scale.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_triplet_nomap_nox.dir\$(Configuration)\umf_triplet.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_triplet_map_x.dir\$(Configuration)\umf_triplet.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_triplet_map_nox.dir\$(Configuration)\umf_triplet.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_triplet_nomap_x.dir\$(Configuration)\umf_triplet.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_ltsolve.dir\$(Configuration)\umf_ltsolve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_lhsolve.dir\$(Configuration)\umf_ltsolve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_utsolve.dir\$(Configuration)\umf_utsolve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_uhsolve.dir\$(Configuration)\umf_utsolve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble_di.dir\$(Configuration)\umf_assemble.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_assemble_di_fixq.dir\$(Configuration)\umf_assemble.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_store_lu.dir\$(Configuration)\umf_store_lu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umf_store_lu_drop.dir\$(Configuration)\umf_store_lu.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umfpack_solve.dir\$(Configuration)\umfpack_solve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umfpack_di_wsolve.dir\$(Configuration)\umfpack_solve.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{D2525C81-472A-30DB-864F-800B264235E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

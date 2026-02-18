@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/UMFPACK/CMakeLists.txt
+umf_store_lu.obj : warning LNK4006: umfdi_store_lu already defined in umf_store_lu.obj; second definition ignored
+umf_utsolve.obj : warning LNK4006: umfdi_utsolve already defined in umf_utsolve.obj; second definition ignored
+umf_ltsolve.obj : warning LNK4006: umfdi_ltsolve already defined in umf_ltsolve.obj; second definition ignored
+umf_assemble.obj : warning LNK4006: umfdi_assemble already defined in umf_assemble.obj; second definition ignored
+  UMFPACK.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\lib\UMFPACK.lib

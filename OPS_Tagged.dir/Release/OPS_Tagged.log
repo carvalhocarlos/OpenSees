@@ -1,0 +1,8 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  TaggedObject.cpp
+  ArrayOfTaggedObjects.cpp
+  ArrayOfTaggedObjectsIter.cpp
+  MapOfTaggedObjectsIter.cpp
+  MapOfTaggedObjects.cpp
+  Generating Code...
+  OPS_Tagged.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Tagged.dir\Release\OPS_Tagged.lib

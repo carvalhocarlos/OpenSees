@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/UMFPACK/CMakeLists.txt
+cl : command line  warning D9002: ignoring unknown option '-fexceptions'
+cl : command line  warning D9002: ignoring unknown option '-fPIC'
+  umfpack_timer.c
+  umfpack_tictoc.c
+  Generating Code...
+  UMFPACK_GN.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_GN.dir\Release\UMFPACK_GN.lib

@@ -1,0 +1,50 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MT
+    compiler.version=17
+    os=Windows
+
+[requires]
+    eigen/3.Y.Z
+    hdf5/1.Y.Z
+    tcl/8.Y.Z
+    zlib/1.Y.Z
+
+[options]
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=Visual Studio
+    compiler.runtime=MT
+    compiler.version=17
+    os=Windows
+
+[full_requires]
+    eigen/3.4.0:5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+    hdf5/1.14.0:56f610eaa37570badeeddc533690bf66310a1715
+    tcl/8.6.11:183fd6d7e72b8795b36375310d5c81bc0e240cc8
+    zlib/1.2.13:871c6303207aa1b539e682559d0b5180e15f0c30
+
+[full_options]
+    shared=False
+    eigen:MPL2_only=False
+    hdf5:enable_cxx=True
+    hdf5:enable_unsupported=False
+    hdf5:hl=True
+    hdf5:parallel=False
+    hdf5:shared=False
+    hdf5:szip_support=None
+    hdf5:with_zlib=True
+    hdf5:with_zlibng=False
+    tcl:shared=False
+    zlib:shared=False
+
+[recipe_hash]
+
+
+[env]
+

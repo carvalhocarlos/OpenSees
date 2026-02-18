@@ -1,0 +1,64 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  DomainSolver.cpp
+  LinearSOE.cpp
+  LinearSOESolver.cpp
+  BandGenLinSOE.cpp
+  BandGenLinSolver.cpp
+  BandGenLinLapackSolver.cpp
+  DistributedBandGenLinSOE.cpp
+  BandSPDLinSOE.cpp
+  BandSPDLinSolver.cpp
+  BandSPDLinLapackSolver.cpp
+  DistributedBandSPDLinSOE.cpp
+  DiagonalSOE.cpp
+  DiagonalSolver.cpp
+  DiagonalDirectSolver.cpp
+  DistributedDiagonalSOE.cpp
+  DistributedDiagonalSolver.cpp
+  FullGenLinSOE.cpp
+  FullGenLinSolver.cpp
+  FullGenLinLapackSolver.cpp
+  SparseGenColLinSOE.cpp
+  Generating Code...
+  Compiling...
+  SparseGenColLinSolver.cpp
+  SparseGenRowLinSOE.cpp
+  SparseGenRowLinSolver.cpp
+  SuperLU.cpp
+  SymSparseLinSOE.cpp
+  SymSparseLinSolver.cpp
+  UmfpackGenLinSOE.cpp
+  UmfpackGenLinSolver.cpp
+  ProfileSPDLinSOE.cpp
+  ProfileSPDLinSolver.cpp
+  ProfileSPDLinDirectSolver.cpp
+  ProfileSPDLinSubstrSolver.cpp
+  ProfileSPDLinDirectBlockSolver.cpp
+  ProfileSPDLinDirectSkypackSolver.cpp
+  DistributedProfileSPDLinSOE.cpp
+  SProfileSPDLinSOE.cpp
+  SProfileSPDLinSolver.cpp
+  ArpackSOE.cpp
+  ArpackSolver.cpp
+  EigenSOE.cpp
+  Generating Code...
+  Compiling...
+  EigenSolver.cpp
+  FullGenEigenSOE.cpp
+  FullGenEigenSolver.cpp
+  SymBandEigenSOE.cpp
+  SymBandEigenSolver.cpp
+  BandArpackSOE.cpp
+  BandArpackSolver.cpp
+  SymArpackSOE.cpp
+  SymArpackSolver.cpp
+  Generating Code...
+  grcm.c
+  nest.c
+  nmat.c
+  symbolic.c
+  utility.c
+  newordr.c
+  nnsim.c
+  Generating Code...
+  OPS_SysOfEqn.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_SysOfEqn.dir\Release\OPS_SysOfEqn.lib

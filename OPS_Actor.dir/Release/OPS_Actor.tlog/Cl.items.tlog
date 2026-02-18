@@ -1,0 +1,11 @@
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\address\ChannelAddress.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\ChannelAddress.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\channel\Channel.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\Channel.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\channel\HTTP.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\HTTP.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\channel\Socket.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\Socket.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\channel\TCP_Socket.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\TCP_Socket.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\channel\UDP_Socket.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\UDP_Socket.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\machineBroker\MachineBroker.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\MachineBroker.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\message\Message.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\Message.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\shadow\Shadow.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\Shadow.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\actor\Actor.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\Actor.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\actor\actor\MovableObject.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\MovableObject.obj

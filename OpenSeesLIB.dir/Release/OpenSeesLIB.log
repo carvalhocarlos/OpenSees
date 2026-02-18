@@ -1,0 +1,2 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+LINK : fatal error LNK1181: cannot open input file 'C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_ElementFortran.dir\Release\gaussq.obj'

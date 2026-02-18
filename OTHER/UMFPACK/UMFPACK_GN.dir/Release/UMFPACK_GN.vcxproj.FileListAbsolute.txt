@@ -1,0 +1,1 @@
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\UMFPACK_GN.dir\Release\UMFPACK_GN.lib

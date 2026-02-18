@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  OPS_Stream.cpp
+  StandardStream.cpp
+  FileStream.cpp
+  XmlFileStream.cpp
+  DataFileStream.cpp
+  DataFileStreamAdd.cpp
+  BinaryFileStream.cpp
+  DatabaseStream.cpp
+  DummyStream.cpp
+  TCP_Stream.cpp
+  ChannelStream.cpp
+  Generating Code...
+  OPS_Handler.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\OPS_Handler.lib

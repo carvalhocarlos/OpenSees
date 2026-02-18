@@ -1,0 +1,1 @@
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\UMFPACK\umfpack_di_wsolve.dir\Release\umfpack_di_wsolve.lib

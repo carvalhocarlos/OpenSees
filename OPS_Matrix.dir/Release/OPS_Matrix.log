@@ -1,0 +1,7 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  MatrixUtil.cpp
+  Matrix.cpp
+  Vector.cpp
+  ID.cpp
+  Generating Code...
+  OPS_Matrix.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Matrix.dir\Release\OPS_Matrix.lib

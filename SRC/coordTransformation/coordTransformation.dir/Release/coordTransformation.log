@@ -1,0 +1,12 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/SRC/coordTransformation/CMakeLists.txt
+  CrdTransf.cpp
+  LinearCrdTransf2d.cpp
+  LinearCrdTransf3d.cpp
+  PDeltaCrdTransf2d.cpp
+  PDeltaCrdTransf3d.cpp
+  CorotCrdTransf2d.cpp
+  CorotCrdTransf3d.cpp
+  CorotCrdTransfWarping2d.cpp
+  CorotCrdTransfWarping3d.cpp
+  Generating Code...
+  coordTransformation.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\lib\coordTransformation.lib

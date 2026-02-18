@@ -1,0 +1,11 @@
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\OPS_Stream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\OPS_Stream.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\StandardStream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\StandardStream.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\FileStream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\FileStream.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\XmlFileStream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\XmlFileStream.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\DataFileStream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\DataFileStream.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\DataFileStreamAdd.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\DataFileStreamAdd.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\BinaryFileStream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\BinaryFileStream.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\DatabaseStream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\DatabaseStream.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\DummyStream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\DummyStream.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\TCP_Stream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\TCP_Stream.obj
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\handler\ChannelStream.cpp;C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Handler.dir\Release\ChannelStream.obj

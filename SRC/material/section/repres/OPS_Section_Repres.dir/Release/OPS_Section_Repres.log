@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/SRC/material/section/repres/CMakeLists.txt
+  Cell.cpp
+  CircSectionCell.cpp
+  QuadCell.cpp
+  CircPatch.cpp
+  Patch.cpp
+  QuadPatch.cpp
+  ReinfBar.cpp
+  CircReinfLayer.cpp
+  ReinfLayer.cpp
+  StraightReinfLayer.cpp
+  FiberSectionRepr.cpp
+  SectionRepres.cpp
+  Generating Code...
+  OPS_Section_Repres.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\SRC\material\section\repres\OPS_Section_Repres.dir\Release\OPS_Section_Repres.lib

@@ -1,0 +1,14 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/CMakeLists.txt
+  ChannelAddress.cpp
+  Channel.cpp
+  HTTP.cpp
+  Socket.cpp
+  TCP_Socket.cpp
+  UDP_Socket.cpp
+  MachineBroker.cpp
+  Message.cpp
+  Shadow.cpp
+  Actor.cpp
+  MovableObject.cpp
+  Generating Code...
+  OPS_Actor.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OPS_Actor.dir\Release\OPS_Actor.lib

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dgssv.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dgssvx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dsp_blas2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dsp_blas3.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dgscon.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dlangs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dgsequ.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dlaqgs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dpivotgrowth.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dgsrfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dgstrf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dgstrs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dcopy_to_ucol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dsnode_dfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dsnode_bmod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dpanel_dfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dpanel_bmod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dreadhb.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dreadrb.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dreadtriple.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dcolumn_dfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dcolumn_bmod.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dpivotL.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dpruneL.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dmemory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dutil.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dmyblas2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dgsisx.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dgsitrf.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dldperm.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\ilu_ddrop_row.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\ilu_dsnode_dfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\ilu_dcolumn_dfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\ilu_dpanel_dfs.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\ilu_dcopy_to_ucol.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\ilu_dpivotL.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\ddiagonal.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DLUSRC.dir\$(Configuration)\dlacon2.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\superlu_timer.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\util.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\memory.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\get_perm_c.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\mmd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\sp_coletree.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\sp_preorder.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\sp_ienv.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\relax_snode.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\heap_relax_snode.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\colamd.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\ilu_relax_snode.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\ilu_heap_relax_snode.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\mark_relax.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\mc64ad.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\qselect.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\input_error.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\ALLAUX.dir\$(Configuration)\smach.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\SuperLU_5.1.1\DZLAUX.dir\$(Configuration)\dmach.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{D2525C81-472A-30DB-864F-800B264235E1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

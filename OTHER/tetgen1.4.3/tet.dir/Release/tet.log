@@ -1,0 +1,203 @@
+﻿  Building Custom Rule C:/Users/carva/source/repos/carvalhocarlos/OpenSees/OTHER/tetgen1.4.3/CMakeLists.txt
+  tetgen.cxx
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.h(3357,6): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::tetrahedron' to 'unsigned long'
+  (compiling source file 'tetgen.cxx')
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.h(3356,22): warning C4312: 'type cast': conversion from 'unsigned long' to 'tetgenmesh::tetrahedron *' of greater size
+  (compiling source file 'tetgen.cxx')
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3659,10): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3659,10):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3659,10):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3659,10):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3678,16): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3678,16):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3678,16):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3678,16):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3695,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3695,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3695,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3695,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3703,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3703,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3703,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3703,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3711,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3711,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3711,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3711,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3719,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3719,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3719,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3719,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3730,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3730,18):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3730,18):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3730,18):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3746,18): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3746,18):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3746,18):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3746,18):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3775,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3775,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3775,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3775,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3778,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3778,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3778,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3778,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3810,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3810,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3810,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3810,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3816,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3816,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3816,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3816,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3822,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3822,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3822,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3822,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3829,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3829,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3829,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3829,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3836,12): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3836,12):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3836,12):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3836,12):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3845,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 2 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3845,14):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3845,14):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3845,14):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3853,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3853,14):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3853,14):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3853,14):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3860,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3860,14):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3860,14):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3860,14):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3868,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3868,14):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3868,14):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3868,14):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3875,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3875,14):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3875,14):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3875,14):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3882,14): warning C4477: 'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'uintptr_t'
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3882,14):
+      consider using '%llx' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3882,14):
+      consider using '%Ix' in the format string
+      C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(3882,14):
+      consider using '%I64x' in the format string
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(4852,14): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::tetrahedron *' to 'unsigned long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(4853,14): warning C4312: 'type cast': conversion from 'unsigned long' to 'tetgenmesh::tetrahedron *' of greater size
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(4877,16): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::shellface *' to 'unsigned long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(4878,15): warning C4312: 'type cast': conversion from 'unsigned long' to 'tetgenmesh::shellface *' of greater size
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(15053,20): warning C4312: 'type cast': conversion from 'int' to 'tetgenmesh::point' of greater size
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(15073,21): warning C4312: 'type cast': conversion from 'int' to 'tetgenmesh::point' of greater size
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(15099,12): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::point' to 'long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(15103,14): warning C4312: 'type cast': conversion from 'long' to 'tetgenmesh::point' of greater size
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(15124,12): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::point' to 'long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(15198,14): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::point' to 'long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(21118,15): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::shellface *' to 'unsigned long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(21168,19): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::shellface *' to 'unsigned long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(23561,17): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::tetrahedron *' to 'unsigned long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(23631,40): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::shellface *' to 'unsigned long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(33808,15): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::tetrahedron *' to 'unsigned long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(33810,41): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::shellface *' to 'unsigned long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(33822,19): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::tetrahedron *' to 'unsigned long'
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.cxx(33826,50): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::shellface *' to 'unsigned long'
+  predicates.cxx
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.h(3357,6): warning C4311: 'type cast': pointer truncation from 'tetgenmesh::tetrahedron' to 'unsigned long'
+  (compiling source file 'predicates.cxx')
+  
+C:\Users\carva\source\repos\carvalhocarlos\OpenSees\OTHER\tetgen1.4.3\tetgen.h(3356,22): warning C4312: 'type cast': conversion from 'unsigned long' to 'tetgenmesh::tetrahedron *' of greater size
+  (compiling source file 'predicates.cxx')
+  
+  Generating Code...
+  tet.vcxproj -> C:\Users\carva\source\repos\carvalhocarlos\OpenSees\lib\tet.lib
